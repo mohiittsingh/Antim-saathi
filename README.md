@@ -154,4 +154,3 @@ SMS & WhatsApp invite sharing
 🤝 Contribution
 
 This project is currently under active development.
-Suggestions and improvements are welcome.
